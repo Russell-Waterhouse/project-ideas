@@ -1,0 +1,6 @@
+BOWLING
+
+Simply write a module that correctly scores a game of bowling. 
+You will need to define data types and structures to represent 
+rolls, frames, and the game. 
+
