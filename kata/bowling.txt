@@ -1,6 +1,11 @@
 BOWLING
 
-Simply write a module that correctly scores a game of bowling. 
+Simply write a module that correctly scores a game of 10-pin bowling. 
 You will need to define data types and structures to represent 
 rolls, frames, and the game. 
 
+You will need to write tests to ensure that the game logic is 
+implemented correctly. 
+
+You do not need to implement any I/O. There is no need for this 
+kata to read a file or interact with the command line. 
