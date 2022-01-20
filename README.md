@@ -17,7 +17,8 @@ Most importantly, have fun!
 
 A kata is just a way to keep a programmer's skill sharp or quickly learn 
 the basics of a new language/framework.    
-They generally are just small business logic rules put into code. 
+They generally are just small business logic rules put into code, and 
+don't take very long to complete. 
 
 ### Small
 
