@@ -1,0 +1,41 @@
+FILE ENCRYPTION
+
+Encryption is a very important part of today's modern computer infrastructure. 
+Encrypting data at rest or in transit is a very important thing!
+
+Your task is as follows: create a cli (command line interface) tool that encrypts or 
+decrypts files based on your favourite encryption algorithm (you get to decide this one)
+You can NOT use a library to complete the encryption. 
+
+Your program should take the following arguments: 
+  -d    decrypt mode
+  -e    encrypt mode
+  -k    encryption key, presented as a file
+  -f    path to file
+
+
+An example use of this tool might be
+  $ ./myEncryptor -e -k key.txt -f /Documents/plaintext.txt
+
+The output should be a file named plaintext.txt.ENCRYPTED
+
+To retrieve the original file, you should be able to use the command 
+  $ ./myEncryptor -d -k key.txt -f /Documents/plaintext.txt
+
+You should also be able to check your work with the help of 
+
+
+
+DISCLAIMER: 
+  While it is important to understand how encryption works and 
+  to be able to use it, it is not recommended to use an encryption library
+  that you create yourself in any situation that the encryption is actually 
+  a requirement. 
+
+  The reason for this while the mathematics behind encryption may be 
+  strong, flaws in your implementation may leave you open to attacks.
+
+  Instead, use an open source encryption library that has been tested by
+  security professionals who understand what they are doing. 
+
+  I repeat: DO NOT ROLL YOUR OWN ENCRYPTION IN PRODUCTION. 

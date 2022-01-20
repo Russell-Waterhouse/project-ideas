@@ -6,7 +6,8 @@ This repository is just a list of projects for software developers.
 We are often encouraged to keep updating our skills and learning new things,
 and I believe that building useful or fun projects are some of the best ways 
 to do that. Thus, these project specifications are not defined with 
-any particular tech stack in mind. 
+any particular tech stack in mind. Thus, any projects that require specific hardware
+or sensors are not mentioned here.
 
 Of course, if you feel competent and have the bandwidth, I encourage you to 
 contribute to open source instead of working on these projects. 
