@@ -1,0 +1,7 @@
+# Never404
+Tired of clicking links on a website that lead nowhere? Tired of updating your website and wondering if there are any remaining links to the page you 
+just deleted? 
+Just run the never404 script and immediately your entire website will be crawled, and every link that returns a 404 error will be printed, along with 
+the link's location. 
+
+
