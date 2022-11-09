@@ -1,0 +1,5 @@
+# RoboScan Project
+
+This is simply an idea for a website enumeration tool that grabs a website's /robots.txt file and makes an http/https GET request to every directory 
+in the list.  The tool will print a list of every url that doesn't return a 404 error. 
+
