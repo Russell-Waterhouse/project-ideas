@@ -1,5 +1,0 @@
-HELLO WORLD
-
-The classic program. 
-Simply print the String "Hello, World!" to standard out!
-
