@@ -21,6 +21,39 @@ The goal is basically to find out the answers to a few very important questions:
 1. Is it more efficient to build in efficient technologies like rust, or is it more efficient to build in less efficient technologies like python and then apply a scaling technology to it. 
 2. If the software is safety critical, what combination produces software that is most safe (defined as least failures and most secure from attackers)
 3. If the software is to be highly performant, what combination of technologies produces the most performant web app? 
+4. If the software is not to be highly performant, what combination of technologies produces a working prototype fastest?
+5. What are the breakeven points for investing in more infrastructure? For example, how many manual deploys would you have to do before it costs less to set up Terraform deployments? 
+
+## Method: 
+Here is the method I plan to use: 
+
+### Compare Competing Technologies
+For example, compare TailwindCSS to Bootstrap to raw css.  
+Then, compare python/django to java/springBoot to rust/actix. 
+Then, compare Postgres to MongoDB to Postgres+Reddis. 
 
 
-More is still to come, this is just an initial brainstorming of a project I would like to work on. 
+Categories could be: 
+- Databases
+- Frontend frameworks
+- CSS Frameworks
+- backend frameworks
+- CI/CD Technologies
+- Scaling Technologies
+- Development Techniques (TDD vs code then test vs augment with AI, etc.)
+
+Criteria could be: 
+- development time (time writing, time reading documentation)
+- bugs encountered
+- performance (load times, query times, requests per second, etc.)
+- Code Maintainability
+- Security
+
+
+## Future Work: 
+Finalize lists of criteria and categories
+Create list of technolgoies to compare
+
+
+## Final Thoughts
+More is still to come, this is just the brainstorming of a project I would like to work on. 
