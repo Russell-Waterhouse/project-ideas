@@ -1,0 +1,10 @@
+# Am I Vulnerable
+
+A project where a user can upload a file of software and version numbers and 
+the CVE database and Currently exploited vulnerabilities databases
+are queried to tell you what CVE's you're vulnerable to and what you should update in what order. 
+
+Optionally, comes with a client that can scan your computer and send the list off for you. 
+
+Optionally, the client can scan your network and send off information for the whole network. 
+
