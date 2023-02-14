@@ -18,6 +18,7 @@ GraphQL
 
 ## Backend
 MongoDB
+Go
 
 ## DevOps
 GitHub
