@@ -1,0 +1,4 @@
+# Git Improved
+
+Create an all-inclusive version of git, fully backwards compatable with regular git, that 
+does git LFS and git submodules in a cleaner and better way
